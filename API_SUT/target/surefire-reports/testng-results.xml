@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14492" started-at="2018-01-17T02:27:49Z" finished-at="2018-01-17T02:28:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14492" started-at="2018-01-17T02:27:49Z" finished-at="2018-01-17T02:28:03Z">
+      <class name="testCases.AppTest">
+        <test-method status="PASS" signature="testComplexResponse()[pri:0, instance:testCases.AppTest@7f690630]" name="testComplexResponse" duration-ms="9384" started-at="2018-01-16T22:27:49Z" finished-at="2018-01-16T22:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testComplexResponse -->
+        <test-method status="PASS" signature="testFloatValue()[pri:0, instance:testCases.AppTest@7f690630]" name="testFloatValue" duration-ms="582" started-at="2018-01-16T22:27:58Z" finished-at="2018-01-16T22:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFloatValue -->
+        <test-method status="PASS" signature="testMediaType()[pri:0, instance:testCases.AppTest@7f690630]" name="testMediaType" duration-ms="481" started-at="2018-01-16T22:27:59Z" finished-at="2018-01-16T22:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMediaType -->
+        <test-method status="PASS" signature="testSchemeValidation()[pri:0, instance:testCases.AppTest@7f690630]" name="testSchemeValidation" duration-ms="3299" started-at="2018-01-16T22:27:59Z" finished-at="2018-01-16T22:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSchemeValidation -->
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:testCases.AppTest@7f690630]" name="testStatusCode" duration-ms="637" started-at="2018-01-16T22:28:03Z" finished-at="2018-01-16T22:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+      </class> <!-- testCases.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

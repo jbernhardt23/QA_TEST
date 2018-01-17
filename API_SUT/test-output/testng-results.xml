@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7996" started-at="2018-01-17T01:16:13Z" finished-at="2018-01-17T01:16:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7996" started-at="2018-01-17T01:16:13Z" finished-at="2018-01-17T01:16:21Z">
+      <class name="testCases.AppTest">
+        <test-method status="PASS" signature="testComplexResponse()[pri:0, instance:testCases.AppTest@3ffc5af1]" name="testComplexResponse" duration-ms="7906" started-at="2018-01-16T21:16:14Z" finished-at="2018-01-16T21:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testComplexResponse -->
+      </class> <!-- testCases.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

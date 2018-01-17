@@ -1,0 +1,10 @@
+22:27:50.882 [main] INFO  API_SUT.API_SUT.App:testComplexResponse:106 - ============ Testing JSON object properties  ================
+22:27:58.813 [main] INFO  API_SUT.API_SUT.App:testComplexResponse:119 - ============ Pass: stevie,male ================
+22:27:58.859 [main] INFO  API_SUT.API_SUT.App:testFloatValue:84 - ============ Testing Float value in 'probability'  ================
+22:27:59.440 [main] INFO  API_SUT.API_SUT.App:testFloatValue:97 - ============ Pass: Probability value 0.99 ================
+22:27:59.443 [main] INFO  API_SUT.API_SUT.App:testMediaType:45 - ============ Testing Media Type application/json ================
+22:27:59.923 [main] INFO  API_SUT.API_SUT.App:testMediaType:56 - ============ Pass: Media Type application/json; charset=utf-8 ================
+22:27:59.925 [main] INFO  API_SUT.API_SUT.App:tetSchemaValidation:65 - ============ Testing JSON Scheme ================
+22:28:03.218 [main] INFO  API_SUT.API_SUT.App:tetSchemaValidation:76 - ============ Pass  ================
+22:28:03.225 [main] INFO  API_SUT.API_SUT.App:testStatusCode:26 - ============ Testing Status Code as OK ================
+22:28:03.860 [main] INFO  API_SUT.API_SUT.App:testStatusCode:37 - ============ Pass: Status code 200 ================

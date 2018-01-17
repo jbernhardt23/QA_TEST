@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "gender": {
+           
+            "type": "string"
+        },
+        "probability": {
+            "type": "integer"
+            
+        },
+        "count": {
+            "type": "integer"
+            
+        }
+    },
+    "required": ["name", "gender", "probability","count"]
+}

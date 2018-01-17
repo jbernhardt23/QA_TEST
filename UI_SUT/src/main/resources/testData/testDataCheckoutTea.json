@@ -1,0 +1,9 @@
+{
+	"email": "test@test.com",
+	"name": "test",
+	"address": "123 Main ST, 33122",
+	"cardType": "Visa",
+	"cardNumber": "4444444444444444",
+	"cardHolder": "test",
+	"verificationCode": "025"
+}

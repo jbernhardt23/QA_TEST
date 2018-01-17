@@ -1,0 +1,33 @@
+12:44:16.993 [main] INFO  utils.TestBaseSetup:setupDriver:32 - ---> Starting WebDriver for Chrome
+12:44:28.040 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:39 - ---> Opening Practice Selenium
+12:44:32.661 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:42 - ---> Validating we are at the correct URL
+12:44:32.702 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:44 - ---> Validated
+12:44:32.703 [main] INFO  baseModules.PracticeSeleniumBase:doGreenTeaCheckOut:54 - ---> Testing a Green tea checkout
+12:44:39.837 [main] INFO  baseModules.PracticeSeleniumBase:doGreenTeaCheckOut:66 - ---> Green tea checkout order placed
+12:44:39.837 [main] ERROR baseModules.PracticeSeleniumBase:doGreenTeaCheckOut:67 - ---> No confirmation displayed for order placed
+12:44:39.841 [main] INFO  utils.TestBaseSetup:quitDriver:45 - ---> Closing WebDriver
+12:44:43.991 [main] INFO  utils.TestBaseSetup:setupDriver:32 - ---> Starting WebDriver for Chrome
+12:44:50.236 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:39 - ---> Opening Practice Selenium
+12:45:39.349 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:42 - ---> Validating we are at the correct URL
+12:45:39.380 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:44 - ---> Validated
+12:45:39.381 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:75 - ---> Testing page sections
+12:45:43.467 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:77 - ---> Verifying correct URL and Collections buttons for Welcome page
+12:45:43.692 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:84 - ---> Validated
+12:45:46.273 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:87 - ---> Verifying correct URL and Title for Our Passion Page
+12:45:46.321 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:90 - ---> Validated
+12:45:48.366 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:93 - ---> Verifying correct URL and Checkout buttons for Menu Page
+12:45:48.471 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:100 - ---> Validated
+12:45:54.380 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:103 - ---> Verifying correct URL and Forms-Map are displayed for Lets Talk Tea page
+12:45:55.213 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:110 - ---> Validated
+12:45:55.358 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:111 - ---> Amount of require fields displayed: 4
+12:45:56.553 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:114 - ---> Verifying correct URL and Customer/Payment forms are displayed for Checkout page
+12:45:56.853 [main] INFO  baseModules.PracticeSeleniumBase:doVerifyPageSections:121 - ---> Validated
+12:45:56.855 [main] INFO  utils.TestBaseSetup:quitDriver:45 - ---> Closing WebDriver
+12:46:00.876 [main] INFO  utils.TestBaseSetup:setupDriver:32 - ---> Starting WebDriver for Chrome
+12:46:07.401 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:39 - ---> Opening Practice Selenium
+12:46:13.410 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:42 - ---> Validating we are at the correct URL
+12:46:13.439 [main] INFO  baseModules.PracticeSeleniumBase:openPracticeSeleniumPage:44 - ---> Validated
+12:46:13.440 [main] INFO  baseModules.PracticeSeleniumBase:sendAnEmailForm:129 - ---> Testing on sending an email form
+12:46:17.906 [main] INFO  baseModules.PracticeSeleniumBase:sendAnEmailForm:133 - ---> Filling Email form
+12:46:20.275 [main] INFO  baseModules.PracticeSeleniumBase:sendAnEmailForm:140 - ---> Submit button clicked
+12:46:20.513 [main] INFO  utils.TestBaseSetup:quitDriver:45 - ---> Closing WebDriver

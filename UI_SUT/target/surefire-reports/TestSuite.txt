@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 131.957 sec <<< FAILURE!
+sendEmailForm(testCases.PracticeSeleniumTestCases)  Time elapsed: 13.113 sec  <<< FAILURE!
+java.lang.AssertionError: Submit still present, no action was done 
+	at org.testng.Assert.fail(Assert.java:96)
+	at baseModules.PracticeSeleniumBase.sendAnEmailForm(PracticeSeleniumBase.java:143)
+	at testCases.PracticeSeleniumTestCases.sendEmailForm(PracticeSeleniumTestCases.java:42)
+
